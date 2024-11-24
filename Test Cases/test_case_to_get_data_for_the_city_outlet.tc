@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_get_data_for_the_city_outlet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37bec368-249d-434b-ba73-3cb2c3c9c61f</testCaseGuid>
+</TestCaseEntity>

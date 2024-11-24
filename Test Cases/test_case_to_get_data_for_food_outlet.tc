@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_get_data_for_food_outlet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dbf8945-bdec-43fb-ba41-89a945b3f2c8</testCaseGuid>
+</TestCaseEntity>
